@@ -1,2 +1,2 @@
 # OTS
-Online Testin System
+Online Testing System
