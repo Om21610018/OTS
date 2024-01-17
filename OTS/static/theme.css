@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    overflow-x:hidden;
+    overflow-y: auto;
+}
+
+.top{
+    background-color:gray;
+    min-height: 100px;
+    padding: 10px;
+}
